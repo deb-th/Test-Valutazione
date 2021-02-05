@@ -1,0 +1,13 @@
+C:\Users\deborah.tucci\Desktop\Test Valutazione\TaskUtente\TaskUtente\bin\Debug\netcoreapp3.1\TaskUtente.exe
+C:\Users\deborah.tucci\Desktop\Test Valutazione\TaskUtente\TaskUtente\bin\Debug\netcoreapp3.1\TaskUtente.deps.json
+C:\Users\deborah.tucci\Desktop\Test Valutazione\TaskUtente\TaskUtente\bin\Debug\netcoreapp3.1\TaskUtente.runtimeconfig.json
+C:\Users\deborah.tucci\Desktop\Test Valutazione\TaskUtente\TaskUtente\bin\Debug\netcoreapp3.1\TaskUtente.runtimeconfig.dev.json
+C:\Users\deborah.tucci\Desktop\Test Valutazione\TaskUtente\TaskUtente\bin\Debug\netcoreapp3.1\TaskUtente.dll
+C:\Users\deborah.tucci\Desktop\Test Valutazione\TaskUtente\TaskUtente\bin\Debug\netcoreapp3.1\TaskUtente.pdb
+C:\Users\deborah.tucci\Desktop\Test Valutazione\TaskUtente\TaskUtente\obj\Debug\netcoreapp3.1\TaskUtente.csprojAssemblyReference.cache
+C:\Users\deborah.tucci\Desktop\Test Valutazione\TaskUtente\TaskUtente\obj\Debug\netcoreapp3.1\TaskUtente.AssemblyInfoInputs.cache
+C:\Users\deborah.tucci\Desktop\Test Valutazione\TaskUtente\TaskUtente\obj\Debug\netcoreapp3.1\TaskUtente.AssemblyInfo.cs
+C:\Users\deborah.tucci\Desktop\Test Valutazione\TaskUtente\TaskUtente\obj\Debug\netcoreapp3.1\TaskUtente.csproj.CoreCompileInputs.cache
+C:\Users\deborah.tucci\Desktop\Test Valutazione\TaskUtente\TaskUtente\obj\Debug\netcoreapp3.1\TaskUtente.dll
+C:\Users\deborah.tucci\Desktop\Test Valutazione\TaskUtente\TaskUtente\obj\Debug\netcoreapp3.1\TaskUtente.pdb
+C:\Users\deborah.tucci\Desktop\Test Valutazione\TaskUtente\TaskUtente\obj\Debug\netcoreapp3.1\TaskUtente.genruntimeconfig.cache
